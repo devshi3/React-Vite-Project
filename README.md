@@ -14,8 +14,8 @@ Follow these steps to set up and run the project locally:
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/devshi3/React-Vite-Project.git
+   cd React-Vite-Project
    ```
 
 2. **Install Dependencies:**
